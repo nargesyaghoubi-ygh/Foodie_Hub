@@ -48,8 +48,9 @@ To run the project locally:
 - CSS3
 
 - Bootstrap 5
+---
 
-👩‍💻 About the Developer
-Made with ❤️ by Narges Yaghoubi
-📫 Contact: [nargesyaghoubi2001@gmail.com]
-🌐 Portfolio: [https://nargesyaghoubi-ygh.github.io/My-portfolio/]
+ 👩‍💻 About the Developer
+- Made with ❤️ by Narges Yaghoubi
+- 📫 Contact: [nargesyaghoubi2001@gmail.com]
+- 🌐 Portfolio: [https://nargesyaghoubi-ygh.github.io/My-portfolio/]
